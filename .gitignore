@@ -1,0 +1,14 @@
+# for django
+*.log
+*.pot
+*.pyc
+__pycache__
+db.sqlite3
+media
+
+# For React
+dist
+node_modules
+.cache
+*.log
+.DS_Store
