@@ -4,4 +4,4 @@
 - bundled with `parcel`
 - **backend** is pure django **NO** `rest_framework`
 
-if you want to add rest framwork feel free to add it 🙂
+if you want to add rest framework feel free to add it 🙂
